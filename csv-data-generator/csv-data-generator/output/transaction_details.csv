@@ -1,0 +1,501 @@
+transaction_id,date,account_id,account_name,vendor_name,category,amount,user_department,anomaly_flag,description
+TXN-10070,2026-03-01,6500,Professional Services,Deloitte,Professional Services,711.96,Finance,0,Regular operating expense
+TXN-10252,2026-03-02,6500,Professional Services,Contractor Services,Professional Services,618.77,Finance,0,Regular operating expense
+TXN-10292,2026-03-02,6300,Marketing,Google Ads,Marketing,761.42,Marketing,0,Regular operating expense
+TXN-10309,2026-03-02,6200,Software Subscriptions,Notion,Software Subscriptions,699.22,Product,0,Regular operating expense
+TXN-10396,2026-03-02,6400,Travel and Entertainment,Marriott,Travel and Entertainment,122.76,Operations,0,Regular operating expense
+TXN-10484,2026-03-02,6300,Marketing,Google Ads,Marketing,440.74,Marketing,0,Regular operating expense
+TXN-10064,2026-03-03,6500,Professional Services,Deloitte,Professional Services,653.51,Finance,0,Regular operating expense
+TXN-10131,2026-03-03,6300,Marketing,HubSpot,Marketing,625.06,Marketing,0,Regular operating expense
+TXN-10229,2026-03-03,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,885.22,Engineering,0,Regular operating expense
+TXN-10210,2026-03-04,6500,Professional Services,Legal Counsel,Professional Services,589.27,Finance,0,Regular operating expense
+TXN-10239,2026-03-04,6100,Cloud Infrastructure,Google Cloud,Cloud Infrastructure,680.46,Engineering,0,Regular operating expense
+TXN-10293,2026-03-05,6400,Travel and Entertainment,Delta Air Lines,Travel and Entertainment,414.79,Operations,0,Regular operating expense
+TXN-10298,2026-03-05,6400,Travel and Entertainment,Delta Air Lines,Travel and Entertainment,316.09,Operations,0,Regular operating expense
+TXN-10300,2026-03-05,6300,Marketing,Google Ads,Marketing,259.66,Marketing,0,Regular operating expense
+TXN-10468,2026-03-05,6500,Professional Services,Deloitte,Professional Services,460.20,Finance,0,Regular operating expense
+TXN-10078,2026-03-06,6400,Travel and Entertainment,Uber,Travel and Entertainment,342.36,Operations,0,Regular operating expense
+TXN-10118,2026-03-06,6200,Software Subscriptions,Notion,Software Subscriptions,255.35,Product,0,Regular operating expense
+TXN-10431,2026-03-06,6100,Cloud Infrastructure,Google Cloud,Cloud Infrastructure,1007.24,Engineering,0,Regular operating expense
+TXN-10289,2026-03-07,6400,Travel and Entertainment,Marriott,Travel and Entertainment,487.28,Operations,0,Regular operating expense
+TXN-10377,2026-03-08,6400,Travel and Entertainment,Marriott,Travel and Entertainment,274.27,Operations,0,Regular operating expense
+TXN-10066,2026-03-09,6500,Professional Services,Deloitte,Professional Services,508.51,Finance,0,Regular operating expense
+TXN-10069,2026-03-09,6400,Travel and Entertainment,Marriott,Travel and Entertainment,433.96,Operations,0,Regular operating expense
+TXN-10094,2026-03-09,6300,Marketing,HubSpot,Marketing,650.34,Marketing,0,Regular operating expense
+TXN-10098,2026-03-09,6500,Professional Services,Deloitte,Professional Services,784.90,Finance,0,Regular operating expense
+TXN-10119,2026-03-09,6500,Professional Services,Contractor Services,Professional Services,698.52,Finance,0,Regular operating expense
+TXN-10195,2026-03-09,6300,Marketing,Meta Ads,Marketing,783.36,Marketing,0,Regular operating expense
+TXN-10258,2026-03-09,6200,Software Subscriptions,Notion,Software Subscriptions,652.73,Product,0,Regular operating expense
+TXN-10448,2026-03-09,6100,Cloud Infrastructure,Google Cloud,Cloud Infrastructure,797.13,Engineering,0,Regular operating expense
+TXN-10018,2026-03-10,6100,Cloud Infrastructure,Google Cloud,Cloud Infrastructure,665.60,Engineering,0,Regular operating expense
+TXN-10194,2026-03-11,6500,Professional Services,Contractor Services,Professional Services,813.84,Finance,0,Regular operating expense
+TXN-10254,2026-03-11,6200,Software Subscriptions,Atlassian,Software Subscriptions,561.11,Product,0,Regular operating expense
+TXN-10401,2026-03-11,6200,Software Subscriptions,Atlassian,Software Subscriptions,482.75,Product,0,Regular operating expense
+TXN-10413,2026-03-11,6500,Professional Services,Contractor Services,Professional Services,344.83,Finance,0,Regular operating expense
+TXN-10053,2026-03-13,6400,Travel and Entertainment,Marriott,Travel and Entertainment,290.79,Operations,0,Regular operating expense
+TXN-10407,2026-03-13,6200,Software Subscriptions,Figma,Software Subscriptions,374.82,Product,0,Regular operating expense
+TXN-10039,2026-03-14,6200,Software Subscriptions,Notion,Software Subscriptions,606.81,Product,0,Regular operating expense
+TXN-10303,2026-03-14,6100,Cloud Infrastructure,Google Cloud,Cloud Infrastructure,839.35,Engineering,0,Regular operating expense
+TXN-10077,2026-03-15,6500,Professional Services,Legal Counsel,Professional Services,684.71,Finance,0,Regular operating expense
+TXN-10223,2026-03-15,6200,Software Subscriptions,Figma,Software Subscriptions,241.50,Product,0,Regular operating expense
+TXN-10308,2026-03-15,6100,Cloud Infrastructure,Amazon Web Services,Cloud Infrastructure,903.84,Engineering,0,Regular operating expense
+TXN-10465,2026-03-15,6200,Software Subscriptions,Notion,Software Subscriptions,184.54,Product,0,Regular operating expense
+TXN-10058,2026-03-16,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,565.96,Engineering,0,Regular operating expense
+TXN-10101,2026-03-16,6300,Marketing,Google Ads,Marketing,803.12,Marketing,0,Regular operating expense
+TXN-10107,2026-03-16,6400,Travel and Entertainment,Delta Air Lines,Travel and Entertainment,322.07,Operations,0,Regular operating expense
+TXN-10199,2026-03-16,6300,Marketing,HubSpot,Marketing,474.33,Marketing,0,Regular operating expense
+TXN-10381,2026-03-17,6300,Marketing,Meta Ads,Marketing,581.47,Marketing,0,Regular operating expense
+TXN-10471,2026-03-17,6300,Marketing,Google Ads,Marketing,883.53,Marketing,0,Regular operating expense
+TXN-10184,2026-03-18,6100,Cloud Infrastructure,Amazon Web Services,Cloud Infrastructure,774.39,Engineering,0,Regular operating expense
+TXN-10445,2026-03-18,6400,Travel and Entertainment,Uber,Travel and Entertainment,473.72,Operations,0,Regular operating expense
+TXN-10461,2026-03-18,6400,Travel and Entertainment,Uber,Travel and Entertainment,476.09,Operations,0,Regular operating expense
+TXN-10029,2026-03-19,6200,Software Subscriptions,Notion,Software Subscriptions,256.94,Product,0,Regular operating expense
+TXN-10197,2026-03-19,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,1099.40,Engineering,0,Regular operating expense
+TXN-10236,2026-03-19,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,714.53,Engineering,0,Regular operating expense
+TXN-10182,2026-03-20,6300,Marketing,HubSpot,Marketing,769.55,Marketing,0,Regular operating expense
+TXN-10317,2026-03-20,6300,Marketing,HubSpot,Marketing,529.63,Marketing,0,Regular operating expense
+TXN-10342,2026-03-20,6300,Marketing,HubSpot,Marketing,853.90,Marketing,0,Regular operating expense
+TXN-10430,2026-03-20,6500,Professional Services,Deloitte,Professional Services,507.20,Finance,0,Regular operating expense
+TXN-10435,2026-03-20,6400,Travel and Entertainment,Uber,Travel and Entertainment,213.97,Operations,0,Regular operating expense
+TXN-10091,2026-03-21,6500,Professional Services,Legal Counsel,Professional Services,790.37,Finance,0,Regular operating expense
+TXN-10178,2026-03-21,6200,Software Subscriptions,GitHub,Software Subscriptions,393.12,Product,0,Regular operating expense
+TXN-10251,2026-03-21,6200,Software Subscriptions,Notion,Software Subscriptions,171.68,Product,0,Regular operating expense
+TXN-10273,2026-03-21,6400,Travel and Entertainment,Marriott,Travel and Entertainment,125.29,Operations,0,Regular operating expense
+TXN-10291,2026-03-21,6500,Professional Services,Deloitte,Professional Services,628.43,Finance,0,Regular operating expense
+TXN-10456,2026-03-21,6400,Travel and Entertainment,Delta Air Lines,Travel and Entertainment,234.12,Operations,0,Regular operating expense
+TXN-10012,2026-03-22,6300,Marketing,Meta Ads,Marketing,515.46,Marketing,0,Regular operating expense
+TXN-10108,2026-03-23,6400,Travel and Entertainment,Uber,Travel and Entertainment,290.44,Operations,0,Regular operating expense
+TXN-10111,2026-03-23,6300,Marketing,HubSpot,Marketing,408.15,Marketing,0,Regular operating expense
+TXN-10237,2026-03-23,6300,Marketing,Meta Ads,Marketing,412.56,Marketing,0,Regular operating expense
+TXN-10060,2026-03-24,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,640.77,Engineering,0,Regular operating expense
+TXN-10323,2026-03-24,6200,Software Subscriptions,Notion,Software Subscriptions,202.30,Product,0,Regular operating expense
+TXN-10246,2026-03-25,6300,Marketing,HubSpot,Marketing,769.26,Marketing,0,Regular operating expense
+TXN-10262,2026-03-25,6500,Professional Services,Contractor Services,Professional Services,831.58,Finance,0,Regular operating expense
+TXN-10225,2026-03-26,6200,Software Subscriptions,Figma,Software Subscriptions,180.87,Product,0,Regular operating expense
+TXN-10436,2026-03-26,6500,Professional Services,Contractor Services,Professional Services,546.91,Finance,0,Regular operating expense
+TXN-10042,2026-03-27,6500,Professional Services,Contractor Services,Professional Services,650.71,Finance,0,Regular operating expense
+TXN-10065,2026-03-28,6400,Travel and Entertainment,Delta Air Lines,Travel and Entertainment,284.68,Operations,0,Regular operating expense
+TXN-10216,2026-03-28,6200,Software Subscriptions,Notion,Software Subscriptions,520.90,Product,0,Regular operating expense
+TXN-10320,2026-03-28,6200,Software Subscriptions,Notion,Software Subscriptions,268.26,Product,0,Regular operating expense
+TXN-10337,2026-03-28,6100,Cloud Infrastructure,Amazon Web Services,Cloud Infrastructure,855.95,Engineering,0,Regular operating expense
+TXN-10451,2026-03-29,6100,Cloud Infrastructure,Amazon Web Services,Cloud Infrastructure,742.27,Engineering,0,Regular operating expense
+TXN-10009,2026-03-30,6400,Travel and Entertainment,Marriott,Travel and Entertainment,232.08,Operations,0,Regular operating expense
+TXN-10165,2026-03-30,6100,Cloud Infrastructure,Google Cloud,Cloud Infrastructure,702.99,Engineering,0,Regular operating expense
+TXN-10274,2026-03-30,6200,Software Subscriptions,Notion,Software Subscriptions,535.59,Product,0,Regular operating expense
+TXN-10264,2026-03-31,6100,Cloud Infrastructure,Google Cloud,Cloud Infrastructure,1015.16,Engineering,0,Regular operating expense
+TXN-10424,2026-03-31,6100,Cloud Infrastructure,Amazon Web Services,Cloud Infrastructure,971.39,Engineering,0,Regular operating expense
+TXN-10034,2026-04-02,6400,Travel and Entertainment,Delta Air Lines,Travel and Entertainment,361.72,Operations,0,Regular operating expense
+TXN-10307,2026-04-02,6200,Software Subscriptions,Figma,Software Subscriptions,615.98,Product,0,Regular operating expense
+TXN-10083,2026-04-03,6200,Software Subscriptions,Atlassian,Software Subscriptions,532.73,Product,0,Regular operating expense
+TXN-10110,2026-04-03,6400,Travel and Entertainment,Marriott,Travel and Entertainment,243.82,Operations,0,Regular operating expense
+TXN-10290,2026-04-03,6100,Cloud Infrastructure,Google Cloud,Cloud Infrastructure,1024.27,Engineering,0,Regular operating expense
+TXN-10294,2026-04-03,6400,Travel and Entertainment,Uber,Travel and Entertainment,483.76,Operations,0,Regular operating expense
+TXN-10304,2026-04-03,6500,Professional Services,Legal Counsel,Professional Services,629.37,Finance,0,Regular operating expense
+TXN-10483,2026-04-03,6200,Software Subscriptions,Notion,Software Subscriptions,609.08,Product,0,Regular operating expense
+TXN-10003,2026-04-04,6200,Software Subscriptions,Atlassian,Software Subscriptions,405.28,Product,0,Regular operating expense
+TXN-10084,2026-04-04,6200,Software Subscriptions,Figma,Software Subscriptions,597.47,Product,0,Regular operating expense
+TXN-10186,2026-04-04,6500,Professional Services,Deloitte,Professional Services,734.99,Finance,0,Regular operating expense
+TXN-10286,2026-04-04,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,1220.25,Engineering,0,Regular operating expense
+TXN-10410,2026-04-04,6200,Software Subscriptions,Notion,Software Subscriptions,511.71,Product,0,Regular operating expense
+TXN-10026,2026-04-05,6500,Professional Services,Deloitte,Professional Services,351.05,Finance,0,Regular operating expense
+TXN-10208,2026-04-05,6400,Travel and Entertainment,Uber,Travel and Entertainment,337.03,Operations,0,Regular operating expense
+TXN-10142,2026-04-06,6200,Software Subscriptions,GitHub,Software Subscriptions,315.76,Product,0,Regular operating expense
+TXN-10153,2026-04-06,6300,Marketing,HubSpot,Marketing,857.03,Marketing,0,Regular operating expense
+TXN-10423,2026-04-06,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,1201.92,Engineering,0,Regular operating expense
+TXN-10494,2026-04-06,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,921.66,Engineering,0,Regular operating expense
+TXN-10190,2026-04-08,6500,Professional Services,Deloitte,Professional Services,617.38,Finance,0,Regular operating expense
+TXN-10336,2026-04-08,6400,Travel and Entertainment,Marriott,Travel and Entertainment,491.58,Operations,0,Regular operating expense
+TXN-10425,2026-04-08,6400,Travel and Entertainment,Delta Air Lines,Travel and Entertainment,559.99,Operations,0,Regular operating expense
+TXN-10343,2026-04-09,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,633.84,Engineering,0,Regular operating expense
+TXN-10115,2026-04-10,6500,Professional Services,Deloitte,Professional Services,490.86,Finance,0,Regular operating expense
+TXN-10133,2026-04-10,6400,Travel and Entertainment,Delta Air Lines,Travel and Entertainment,150.16,Operations,0,Regular operating expense
+TXN-10024,2026-04-11,6300,Marketing,Google Ads,Marketing,347.99,Marketing,0,Regular operating expense
+TXN-10315,2026-04-11,6500,Professional Services,Contractor Services,Professional Services,570.64,Finance,0,Regular operating expense
+TXN-10324,2026-04-11,6500,Professional Services,Legal Counsel,Professional Services,745.71,Finance,0,Regular operating expense
+TXN-10374,2026-04-11,6300,Marketing,HubSpot,Marketing,405.12,Marketing,0,Regular operating expense
+TXN-10486,2026-04-11,6500,Professional Services,Contractor Services,Professional Services,910.96,Finance,0,Regular operating expense
+TXN-10088,2026-04-12,6200,Software Subscriptions,Figma,Software Subscriptions,210.48,Product,0,Regular operating expense
+TXN-10122,2026-04-12,6100,Cloud Infrastructure,Amazon Web Services,Cloud Infrastructure,726.54,Engineering,0,Regular operating expense
+TXN-10177,2026-04-12,6500,Professional Services,Legal Counsel,Professional Services,719.54,Finance,0,Regular operating expense
+TXN-10334,2026-04-12,6100,Cloud Infrastructure,Google Cloud,Cloud Infrastructure,679.82,Engineering,0,Regular operating expense
+TXN-10345,2026-04-12,6400,Travel and Entertainment,Delta Air Lines,Travel and Entertainment,114.74,Operations,0,Regular operating expense
+TXN-10051,2026-04-13,6200,Software Subscriptions,GitHub,Software Subscriptions,725.38,Product,0,Regular operating expense
+TXN-10361,2026-04-13,6100,Cloud Infrastructure,Amazon Web Services,Cloud Infrastructure,1222.42,Engineering,0,Regular operating expense
+TXN-10487,2026-04-13,6200,Software Subscriptions,Notion,Software Subscriptions,777.30,Product,0,Regular operating expense
+TXN-10310,2026-04-14,6200,Software Subscriptions,Notion,Software Subscriptions,590.64,Product,0,Regular operating expense
+TXN-10358,2026-04-14,6500,Professional Services,Contractor Services,Professional Services,404.31,Finance,0,Regular operating expense
+TXN-10028,2026-04-15,6100,Cloud Infrastructure,Google Cloud,Cloud Infrastructure,871.30,Engineering,0,Regular operating expense
+TXN-10041,2026-04-15,6300,Marketing,Google Ads,Marketing,468.69,Marketing,0,Regular operating expense
+TXN-10044,2026-04-15,6300,Marketing,Meta Ads,Marketing,336.41,Marketing,0,Regular operating expense
+TXN-10067,2026-04-15,6400,Travel and Entertainment,Marriott,Travel and Entertainment,258.43,Operations,0,Regular operating expense
+TXN-10285,2026-04-15,6300,Marketing,Meta Ads,Marketing,972.00,Marketing,0,Regular operating expense
+TXN-10400,2026-04-15,6200,Software Subscriptions,Atlassian,Software Subscriptions,727.97,Product,0,Regular operating expense
+TXN-10030,2026-04-16,6500,Professional Services,Deloitte,Professional Services,582.19,Finance,0,Regular operating expense
+TXN-10164,2026-04-16,6200,Software Subscriptions,Notion,Software Subscriptions,487.68,Product,0,Regular operating expense
+TXN-10188,2026-04-17,6300,Marketing,Meta Ads,Marketing,793.54,Marketing,0,Regular operating expense
+TXN-10227,2026-04-17,6300,Marketing,HubSpot,Marketing,579.97,Marketing,0,Regular operating expense
+TXN-10427,2026-04-17,6100,Cloud Infrastructure,Google Cloud,Cloud Infrastructure,1090.86,Engineering,0,Regular operating expense
+TXN-10472,2026-04-17,6200,Software Subscriptions,GitHub,Software Subscriptions,503.15,Product,0,Regular operating expense
+TXN-10062,2026-04-18,6300,Marketing,Meta Ads,Marketing,299.63,Marketing,0,Regular operating expense
+TXN-10112,2026-04-19,6500,Professional Services,Contractor Services,Professional Services,563.32,Finance,0,Regular operating expense
+TXN-10280,2026-04-19,6500,Professional Services,Deloitte,Professional Services,793.24,Finance,0,Regular operating expense
+TXN-10301,2026-04-19,6300,Marketing,Google Ads,Marketing,515.71,Marketing,0,Regular operating expense
+TXN-10329,2026-04-19,6100,Cloud Infrastructure,Google Cloud,Cloud Infrastructure,1205.28,Engineering,0,Regular operating expense
+TXN-10346,2026-04-19,6500,Professional Services,Deloitte,Professional Services,740.92,Finance,0,Regular operating expense
+TXN-10016,2026-04-20,6400,Travel and Entertainment,Marriott,Travel and Entertainment,366.96,Operations,0,Regular operating expense
+TXN-10037,2026-04-20,6400,Travel and Entertainment,Marriott,Travel and Entertainment,254.15,Operations,0,Regular operating expense
+TXN-10120,2026-04-20,6400,Travel and Entertainment,Delta Air Lines,Travel and Entertainment,238.78,Operations,0,Regular operating expense
+TXN-10469,2026-04-20,6200,Software Subscriptions,Notion,Software Subscriptions,385.33,Product,0,Regular operating expense
+TXN-10421,2026-04-21,6400,Travel and Entertainment,Uber,Travel and Entertainment,412.36,Operations,0,Regular operating expense
+TXN-10076,2026-04-22,6300,Marketing,Google Ads,Marketing,363.28,Marketing,0,Regular operating expense
+TXN-10355,2026-04-22,6300,Marketing,HubSpot,Marketing,588.68,Marketing,0,Regular operating expense
+TXN-10408,2026-04-22,6500,Professional Services,Contractor Services,Professional Services,704.30,Finance,0,Regular operating expense
+TXN-10419,2026-04-22,6100,Cloud Infrastructure,Google Cloud,Cloud Infrastructure,1048.94,Engineering,0,Regular operating expense
+TXN-10013,2026-04-23,6100,Cloud Infrastructure,Amazon Web Services,Cloud Infrastructure,798.12,Engineering,0,Regular operating expense
+TXN-10079,2026-04-23,6300,Marketing,Google Ads,Marketing,363.38,Marketing,0,Regular operating expense
+TXN-10344,2026-04-23,6300,Marketing,Meta Ads,Marketing,835.03,Marketing,0,Regular operating expense
+TXN-10116,2026-04-24,6400,Travel and Entertainment,Delta Air Lines,Travel and Entertainment,198.28,Operations,0,Regular operating expense
+TXN-10117,2026-04-24,6400,Travel and Entertainment,Uber,Travel and Entertainment,352.07,Operations,0,Regular operating expense
+TXN-10095,2026-04-25,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,913.83,Engineering,0,Regular operating expense
+TXN-10099,2026-04-25,6100,Cloud Infrastructure,Google Cloud,Cloud Infrastructure,902.26,Engineering,0,Regular operating expense
+TXN-10363,2026-04-25,6200,Software Subscriptions,Figma,Software Subscriptions,252.54,Product,0,Regular operating expense
+TXN-10476,2026-04-26,6400,Travel and Entertainment,Delta Air Lines,Travel and Entertainment,142.27,Operations,0,Regular operating expense
+TXN-10185,2026-04-27,6300,Marketing,Meta Ads,Marketing,944.61,Marketing,0,Regular operating expense
+TXN-10442,2026-04-27,6500,Professional Services,Contractor Services,Professional Services,459.01,Finance,0,Regular operating expense
+TXN-10085,2026-04-28,6100,Cloud Infrastructure,Amazon Web Services,Cloud Infrastructure,1037.50,Engineering,0,Regular operating expense
+TXN-10169,2026-04-28,6400,Travel and Entertainment,Marriott,Travel and Entertainment,184.05,Operations,0,Regular operating expense
+TXN-10193,2026-04-28,6300,Marketing,Meta Ads,Marketing,330.82,Marketing,0,Regular operating expense
+TXN-10371,2026-04-28,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,808.85,Engineering,0,Regular operating expense
+TXN-10040,2026-04-29,6500,Professional Services,Legal Counsel,Professional Services,434.04,Finance,0,Regular operating expense
+TXN-10081,2026-04-30,6200,Software Subscriptions,Notion,Software Subscriptions,360.17,Product,0,Regular operating expense
+TXN-10244,2026-04-30,6300,Marketing,Meta Ads,Marketing,721.46,Marketing,0,Regular operating expense
+TXN-10005,2026-05-01,6300,Marketing,HubSpot,Marketing,676.14,Marketing,0,Regular operating expense
+TXN-10160,2026-05-01,6100,Cloud Infrastructure,Google Cloud,Cloud Infrastructure,690.26,Engineering,0,Regular operating expense
+TXN-10266,2026-05-01,6200,Software Subscriptions,GitHub,Software Subscriptions,339.77,Product,0,Regular operating expense
+TXN-10271,2026-05-01,6300,Marketing,HubSpot,Marketing,750.61,Marketing,0,Regular operating expense
+TXN-10000,2026-05-02,6500,Professional Services,Legal Counsel,Professional Services,413.56,Finance,0,Regular operating expense
+TXN-10147,2026-05-03,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,1067.27,Engineering,0,Regular operating expense
+TXN-10326,2026-05-03,6300,Marketing,Google Ads,Marketing,355.69,Marketing,0,Regular operating expense
+TXN-10327,2026-05-03,6200,Software Subscriptions,Figma,Software Subscriptions,445.66,Product,0,Regular operating expense
+TXN-10277,2026-05-04,6500,Professional Services,Contractor Services,Professional Services,493.51,Finance,0,Regular operating expense
+TXN-10253,2026-05-05,6200,Software Subscriptions,Figma,Software Subscriptions,229.51,Product,0,Regular operating expense
+TXN-10278,2026-05-05,6300,Marketing,Meta Ads,Marketing,578.01,Marketing,0,Regular operating expense
+TXN-10366,2026-05-05,6400,Travel and Entertainment,Uber,Travel and Entertainment,289.90,Operations,0,Regular operating expense
+TXN-10449,2026-05-05,6100,Cloud Infrastructure,Amazon Web Services,Cloud Infrastructure,1158.14,Engineering,0,Regular operating expense
+TXN-10128,2026-05-06,6300,Marketing,Meta Ads,Marketing,1009.21,Marketing,0,Regular operating expense
+TXN-10235,2026-05-06,6200,Software Subscriptions,Figma,Software Subscriptions,219.22,Product,0,Regular operating expense
+TXN-10353,2026-05-06,6100,Cloud Infrastructure,Amazon Web Services,Cloud Infrastructure,1109.68,Engineering,0,Regular operating expense
+TXN-10179,2026-05-07,6100,Cloud Infrastructure,Amazon Web Services,Cloud Infrastructure,801.41,Engineering,0,Regular operating expense
+TXN-10295,2026-05-07,6400,Travel and Entertainment,Delta Air Lines,Travel and Entertainment,384.74,Operations,0,Regular operating expense
+TXN-10335,2026-05-07,6400,Travel and Entertainment,Marriott,Travel and Entertainment,186.18,Operations,0,Regular operating expense
+TXN-10068,2026-05-09,6500,Professional Services,Legal Counsel,Professional Services,820.65,Finance,0,Regular operating expense
+TXN-10475,2026-05-09,6400,Travel and Entertainment,Marriott,Travel and Entertainment,458.77,Operations,0,Regular operating expense
+TXN-10364,2026-05-10,6300,Marketing,Google Ads,Marketing,532.77,Marketing,0,Regular operating expense
+TXN-10447,2026-05-10,6500,Professional Services,Deloitte,Professional Services,398.05,Finance,0,Regular operating expense
+TXN-10173,2026-05-11,6500,Professional Services,Legal Counsel,Professional Services,418.32,Finance,0,Regular operating expense
+TXN-10214,2026-05-11,6400,Travel and Entertainment,Marriott,Travel and Entertainment,401.70,Operations,0,Regular operating expense
+TXN-10240,2026-05-12,6300,Marketing,HubSpot,Marketing,717.17,Marketing,0,Regular operating expense
+TXN-10265,2026-05-12,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,689.62,Engineering,0,Regular operating expense
+TXN-10288,2026-05-12,6200,Software Subscriptions,Figma,Software Subscriptions,210.80,Product,0,Regular operating expense
+TXN-10331,2026-05-12,6500,Professional Services,Legal Counsel,Professional Services,897.56,Finance,0,Regular operating expense
+TXN-10454,2026-05-12,6500,Professional Services,Legal Counsel,Professional Services,487.02,Finance,0,Regular operating expense
+TXN-10242,2026-05-13,6500,Professional Services,Contractor Services,Professional Services,518.61,Finance,0,Regular operating expense
+TXN-10473,2026-05-13,6200,Software Subscriptions,GitHub,Software Subscriptions,724.88,Product,0,Regular operating expense
+TXN-10008,2026-05-14,6500,Professional Services,Contractor Services,Professional Services,389.26,Finance,0,Regular operating expense
+TXN-10176,2026-05-14,6500,Professional Services,Contractor Services,Professional Services,379.28,Finance,0,Regular operating expense
+TXN-10497,2026-05-14,6300,Marketing,HubSpot,Marketing,346.50,Marketing,0,Regular operating expense
+TXN-10232,2026-05-15,6200,Software Subscriptions,Notion,Software Subscriptions,575.97,Product,0,Regular operating expense
+TXN-10399,2026-05-15,6200,Software Subscriptions,GitHub,Software Subscriptions,539.56,Product,0,Regular operating expense
+TXN-10405,2026-05-15,6400,Travel and Entertainment,Uber,Travel and Entertainment,356.07,Operations,0,Regular operating expense
+TXN-10433,2026-05-15,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,660.14,Engineering,0,Regular operating expense
+TXN-10057,2026-05-16,6200,Software Subscriptions,Notion,Software Subscriptions,311.28,Product,0,Regular operating expense
+TXN-10109,2026-05-16,6400,Travel and Entertainment,Delta Air Lines,Travel and Entertainment,321.16,Operations,0,Regular operating expense
+TXN-10305,2026-05-17,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,1007.99,Engineering,0,Regular operating expense
+TXN-10017,2026-05-18,6400,Travel and Entertainment,Marriott,Travel and Entertainment,498.51,Operations,0,Regular operating expense
+TXN-10063,2026-05-19,6100,Cloud Infrastructure,Amazon Web Services,Cloud Infrastructure,12000.00,Engineering,1,Unplanned infrastructure expansion
+TXN-10394,2026-05-19,6500,Professional Services,Contractor Services,Professional Services,380.53,Finance,0,Regular operating expense
+TXN-10019,2026-05-20,6200,Software Subscriptions,Notion,Software Subscriptions,586.60,Product,0,Regular operating expense
+TXN-10031,2026-05-21,6300,Marketing,Google Ads,Marketing,801.50,Marketing,0,Regular operating expense
+TXN-10444,2026-05-21,6400,Travel and Entertainment,Marriott,Travel and Entertainment,336.07,Operations,0,Regular operating expense
+TXN-10010,2026-05-22,6400,Travel and Entertainment,Uber,Travel and Entertainment,505.09,Operations,0,Regular operating expense
+TXN-10025,2026-05-22,6300,Marketing,Google Ads,Marketing,519.54,Marketing,0,Regular operating expense
+TXN-10036,2026-05-22,6500,Professional Services,Contractor Services,Professional Services,680.94,Finance,0,Regular operating expense
+TXN-10360,2026-05-22,6500,Professional Services,Deloitte,Professional Services,540.08,Finance,0,Regular operating expense
+TXN-10434,2026-05-22,6400,Travel and Entertainment,Marriott,Travel and Entertainment,446.01,Operations,0,Regular operating expense
+TXN-10125,2026-05-23,6200,Software Subscriptions,Notion,Software Subscriptions,769.64,Product,0,Regular operating expense
+TXN-10144,2026-05-23,6400,Travel and Entertainment,Marriott,Travel and Entertainment,388.15,Operations,0,Regular operating expense
+TXN-10170,2026-05-23,6100,Cloud Infrastructure,Google Cloud,Cloud Infrastructure,945.88,Engineering,0,Regular operating expense
+TXN-10284,2026-05-23,6500,Professional Services,Legal Counsel,Professional Services,579.36,Finance,0,Regular operating expense
+TXN-10154,2026-05-24,6200,Software Subscriptions,Figma,Software Subscriptions,693.83,Product,0,Regular operating expense
+TXN-10196,2026-05-24,6300,Marketing,HubSpot,Marketing,510.67,Marketing,0,Regular operating expense
+TXN-10032,2026-05-25,6400,Travel and Entertainment,Delta Air Lines,Travel and Entertainment,310.57,Operations,0,Regular operating expense
+TXN-10073,2026-05-25,6100,Cloud Infrastructure,Amazon Web Services,Cloud Infrastructure,652.13,Engineering,0,Regular operating expense
+TXN-10136,2026-05-25,6400,Travel and Entertainment,Marriott,Travel and Entertainment,355.38,Operations,0,Regular operating expense
+TXN-10351,2026-05-25,6300,Marketing,HubSpot,Marketing,991.20,Marketing,0,Regular operating expense
+TXN-10380,2026-05-25,6200,Software Subscriptions,GitHub,Software Subscriptions,278.84,Product,0,Regular operating expense
+TXN-10033,2026-05-26,6200,Software Subscriptions,Notion,Software Subscriptions,778.41,Product,0,Regular operating expense
+TXN-10432,2026-05-26,6300,Marketing,HubSpot,Marketing,962.24,Marketing,0,Regular operating expense
+TXN-10485,2026-05-26,6500,Professional Services,Deloitte,Professional Services,471.16,Finance,0,Regular operating expense
+TXN-10096,2026-05-27,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,1094.87,Engineering,0,Regular operating expense
+TXN-10152,2026-05-27,6300,Marketing,Google Ads,Marketing,393.82,Marketing,0,Regular operating expense
+TXN-10269,2026-05-27,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,1036.38,Engineering,0,Regular operating expense
+TXN-10282,2026-05-27,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,942.01,Engineering,0,Regular operating expense
+TXN-10322,2026-05-27,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,919.34,Engineering,0,Regular operating expense
+TXN-10198,2026-05-28,6300,Marketing,HubSpot,Marketing,398.58,Marketing,0,Regular operating expense
+TXN-10391,2026-05-28,6400,Travel and Entertainment,Marriott,Travel and Entertainment,561.65,Operations,0,Regular operating expense
+TXN-10224,2026-05-29,6400,Travel and Entertainment,Marriott,Travel and Entertainment,128.32,Operations,0,Regular operating expense
+TXN-10281,2026-05-29,6300,Marketing,Google Ads,Marketing,597.63,Marketing,0,Regular operating expense
+TXN-10312,2026-05-29,6200,Software Subscriptions,Atlassian,Software Subscriptions,223.60,Product,0,Regular operating expense
+TXN-10438,2026-05-29,6400,Travel and Entertainment,Marriott,Travel and Entertainment,499.15,Operations,0,Regular operating expense
+TXN-10492,2026-05-29,6200,Software Subscriptions,Notion,Software Subscriptions,425.51,Product,0,Regular operating expense
+TXN-10061,2026-05-30,6100,Cloud Infrastructure,Amazon Web Services,Cloud Infrastructure,18000.00,Engineering,1,Enterprise capacity upgrade
+TXN-10137,2026-05-30,6500,Professional Services,Contractor Services,Professional Services,625.02,Finance,0,Regular operating expense
+TXN-10201,2026-05-30,6500,Professional Services,Deloitte,Professional Services,548.52,Finance,0,Regular operating expense
+TXN-10220,2026-05-30,6100,Cloud Infrastructure,Amazon Web Services,Cloud Infrastructure,814.27,Engineering,0,Regular operating expense
+TXN-10080,2026-05-31,6200,Software Subscriptions,GitHub,Software Subscriptions,369.23,Product,0,Regular operating expense
+TXN-10283,2026-05-31,6300,Marketing,Google Ads,Marketing,998.76,Marketing,0,Regular operating expense
+TXN-10297,2026-06-01,6100,Cloud Infrastructure,Amazon Web Services,Cloud Infrastructure,737.63,Engineering,0,Regular operating expense
+TXN-10370,2026-06-01,6100,Cloud Infrastructure,Amazon Web Services,Cloud Infrastructure,843.01,Engineering,0,Regular operating expense
+TXN-10132,2026-06-02,6400,Travel and Entertainment,Uber,Travel and Entertainment,168.73,Operations,0,Regular operating expense
+TXN-10204,2026-06-02,6200,Software Subscriptions,Notion,Software Subscriptions,341.25,Product,0,Regular operating expense
+TXN-10402,2026-06-02,6500,Professional Services,Legal Counsel,Professional Services,575.18,Finance,0,Regular operating expense
+TXN-10313,2026-06-03,6300,Marketing,HubSpot,Marketing,348.63,Marketing,0,Regular operating expense
+TXN-10376,2026-06-03,6400,Travel and Entertainment,Delta Air Lines,Travel and Entertainment,288.42,Operations,0,Regular operating expense
+TXN-10386,2026-06-03,6300,Marketing,HubSpot,Marketing,383.40,Marketing,0,Regular operating expense
+TXN-10395,2026-06-03,6400,Travel and Entertainment,Marriott,Travel and Entertainment,235.37,Operations,0,Regular operating expense
+TXN-10090,2026-06-04,6300,Marketing,Meta Ads,Marketing,558.38,Marketing,0,Regular operating expense
+TXN-10491,2026-06-04,6300,Marketing,Meta Ads,Marketing,808.05,Marketing,0,Regular operating expense
+TXN-10075,2026-06-05,6400,Travel and Entertainment,Marriott,Travel and Entertainment,205.19,Operations,0,Regular operating expense
+TXN-10207,2026-06-05,6500,Professional Services,Deloitte,Professional Services,601.05,Finance,0,Regular operating expense
+TXN-10347,2026-06-05,6400,Travel and Entertainment,Delta Air Lines,Travel and Entertainment,416.21,Operations,0,Regular operating expense
+TXN-10384,2026-06-05,6200,Software Subscriptions,Atlassian,Software Subscriptions,305.32,Product,0,Regular operating expense
+TXN-10022,2026-06-06,6500,Professional Services,Legal Counsel,Professional Services,695.49,Finance,0,Regular operating expense
+TXN-10350,2026-06-06,6200,Software Subscriptions,Figma,Software Subscriptions,371.21,Product,0,Regular operating expense
+TXN-10404,2026-06-06,6200,Software Subscriptions,Notion,Software Subscriptions,180.10,Product,0,Regular operating expense
+TXN-10406,2026-06-06,6300,Marketing,Meta Ads,Marketing,510.86,Marketing,0,Regular operating expense
+TXN-10074,2026-06-07,6300,Marketing,HubSpot,Marketing,835.27,Marketing,0,Regular operating expense
+TXN-10238,2026-06-07,6400,Travel and Entertainment,Marriott,Travel and Entertainment,524.74,Operations,0,Regular operating expense
+TXN-10255,2026-06-07,6500,Professional Services,Contractor Services,Professional Services,391.32,Finance,0,Regular operating expense
+TXN-10045,2026-06-08,6500,Professional Services,Legal Counsel,Professional Services,471.92,Finance,0,Regular operating expense
+TXN-10203,2026-06-08,6300,Marketing,Meta Ads,Marketing,846.73,Marketing,0,Regular operating expense
+TXN-10488,2026-06-09,6200,Software Subscriptions,Atlassian,Software Subscriptions,178.65,Product,0,Regular operating expense
+TXN-10496,2026-06-09,6500,Professional Services,Contractor Services,Professional Services,777.66,Finance,0,Regular operating expense
+TXN-10146,2026-06-10,6200,Software Subscriptions,Notion,Software Subscriptions,563.48,Product,0,Regular operating expense
+TXN-10156,2026-06-10,6300,Marketing,Meta Ads,Marketing,740.07,Marketing,0,Regular operating expense
+TXN-10241,2026-06-10,6400,Travel and Entertainment,Uber,Travel and Entertainment,114.21,Operations,0,Regular operating expense
+TXN-10489,2026-06-10,6200,Software Subscriptions,GitHub,Software Subscriptions,363.65,Product,0,Regular operating expense
+TXN-10071,2026-06-12,6400,Travel and Entertainment,Delta Air Lines,Travel and Entertainment,199.17,Operations,0,Regular operating expense
+TXN-10114,2026-06-12,6400,Travel and Entertainment,Marriott,Travel and Entertainment,400.20,Operations,0,Regular operating expense
+TXN-10453,2026-06-12,6500,Professional Services,Deloitte,Professional Services,451.16,Finance,0,Regular operating expense
+TXN-10191,2026-06-13,6400,Travel and Entertainment,Uber,Travel and Entertainment,185.06,Operations,0,Regular operating expense
+TXN-10002,2026-06-14,6100,Cloud Infrastructure,Google Cloud,Cloud Infrastructure,927.59,Engineering,0,Regular operating expense
+TXN-10155,2026-06-15,6100,Cloud Infrastructure,Google Cloud,Cloud Infrastructure,649.31,Engineering,0,Regular operating expense
+TXN-10393,2026-06-15,6500,Professional Services,Legal Counsel,Professional Services,679.62,Finance,0,Regular operating expense
+TXN-10481,2026-06-15,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,1143.92,Engineering,0,Regular operating expense
+TXN-10027,2026-06-16,6400,Travel and Entertainment,Delta Air Lines,Travel and Entertainment,361.74,Operations,0,Regular operating expense
+TXN-10127,2026-06-16,6400,Travel and Entertainment,Marriott,Travel and Entertainment,306.06,Operations,0,Regular operating expense
+TXN-10387,2026-06-16,6100,Cloud Infrastructure,Google Cloud,Cloud Infrastructure,845.43,Engineering,0,Regular operating expense
+TXN-10113,2026-06-17,6200,Software Subscriptions,Figma,Software Subscriptions,356.02,Product,0,Regular operating expense
+TXN-10157,2026-06-17,6300,Marketing,Meta Ads,Marketing,631.04,Marketing,0,Regular operating expense
+TXN-10192,2026-06-17,6400,Travel and Entertainment,Delta Air Lines,Travel and Entertainment,418.44,Operations,0,Regular operating expense
+TXN-10306,2026-06-17,6100,Cloud Infrastructure,Google Cloud,Cloud Infrastructure,705.44,Engineering,0,Regular operating expense
+TXN-10316,2026-06-17,6500,Professional Services,Contractor Services,Professional Services,485.30,Finance,0,Regular operating expense
+TXN-10378,2026-06-17,6300,Marketing,Meta Ads,Marketing,316.18,Marketing,0,Regular operating expense
+TXN-10441,2026-06-17,6100,Cloud Infrastructure,Amazon Web Services,Cloud Infrastructure,882.11,Engineering,0,Regular operating expense
+TXN-10055,2026-06-18,6500,Professional Services,Contractor Services,Professional Services,746.69,Finance,0,Regular operating expense
+TXN-10163,2026-06-19,6200,Software Subscriptions,Atlassian,Software Subscriptions,180.73,Product,0,Regular operating expense
+TXN-10372,2026-06-19,6200,Software Subscriptions,Notion,Software Subscriptions,391.05,Product,0,Regular operating expense
+TXN-10038,2026-06-20,6300,Marketing,HubSpot,Marketing,818.74,Marketing,0,Regular operating expense
+TXN-10135,2026-06-20,6200,Software Subscriptions,Atlassian,Software Subscriptions,501.76,Product,0,Regular operating expense
+TXN-10466,2026-06-20,6500,Professional Services,Contractor Services,Professional Services,624.57,Finance,0,Regular operating expense
+TXN-10215,2026-06-21,6400,Travel and Entertainment,Marriott,Travel and Entertainment,138.73,Operations,0,Regular operating expense
+TXN-10250,2026-06-21,6100,Cloud Infrastructure,Google Cloud,Cloud Infrastructure,633.61,Engineering,0,Regular operating expense
+TXN-10390,2026-06-21,6400,Travel and Entertainment,Marriott,Travel and Entertainment,519.34,Operations,0,Regular operating expense
+TXN-10474,2026-06-21,6300,Marketing,Meta Ads,Marketing,526.55,Marketing,0,Regular operating expense
+TXN-10482,2026-06-21,6200,Software Subscriptions,Atlassian,Software Subscriptions,262.77,Product,0,Regular operating expense
+TXN-10006,2026-06-22,6100,Cloud Infrastructure,Google Cloud,Cloud Infrastructure,992.97,Engineering,0,Regular operating expense
+TXN-10149,2026-06-22,6200,Software Subscriptions,Atlassian,Software Subscriptions,621.76,Product,0,Regular operating expense
+TXN-10175,2026-06-22,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,1079.56,Engineering,0,Regular operating expense
+TXN-10341,2026-06-22,6300,Marketing,Google Ads,Marketing,701.14,Marketing,0,Regular operating expense
+TXN-10205,2026-06-23,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,1105.01,Engineering,0,Regular operating expense
+TXN-10221,2026-06-24,6500,Professional Services,Deloitte,Professional Services,367.19,Finance,0,Regular operating expense
+TXN-10477,2026-06-24,6400,Travel and Entertainment,Delta Air Lines,Travel and Entertainment,380.98,Operations,0,Regular operating expense
+TXN-10340,2026-06-25,6100,Cloud Infrastructure,Google Cloud,Cloud Infrastructure,1050.14,Engineering,0,Regular operating expense
+TXN-10086,2026-06-26,6100,Cloud Infrastructure,Amazon Web Services,Cloud Infrastructure,1145.67,Engineering,0,Regular operating expense
+TXN-10228,2026-06-26,6300,Marketing,Google Ads,Marketing,385.39,Marketing,0,Regular operating expense
+TXN-10328,2026-06-26,6400,Travel and Entertainment,Delta Air Lines,Travel and Entertainment,159.65,Operations,0,Regular operating expense
+TXN-10339,2026-06-26,6100,Cloud Infrastructure,Google Cloud,Cloud Infrastructure,825.31,Engineering,0,Regular operating expense
+TXN-10189,2026-06-27,6200,Software Subscriptions,Notion,Software Subscriptions,436.14,Product,0,Regular operating expense
+TXN-10480,2026-06-27,6300,Marketing,HubSpot,Marketing,701.21,Marketing,0,Regular operating expense
+TXN-10052,2026-06-28,6500,Professional Services,Contractor Services,Professional Services,823.58,Finance,0,Regular operating expense
+TXN-10212,2026-06-28,6300,Marketing,Google Ads,Marketing,709.39,Marketing,0,Regular operating expense
+TXN-10218,2026-06-28,6100,Cloud Infrastructure,Google Cloud,Cloud Infrastructure,889.94,Engineering,0,Regular operating expense
+TXN-10260,2026-06-28,6500,Professional Services,Deloitte,Professional Services,510.61,Finance,0,Regular operating expense
+TXN-10332,2026-06-28,6200,Software Subscriptions,GitHub,Software Subscriptions,686.40,Product,0,Regular operating expense
+TXN-10446,2026-06-28,6500,Professional Services,Deloitte,Professional Services,612.94,Finance,0,Regular operating expense
+TXN-10234,2026-06-29,6100,Cloud Infrastructure,Google Cloud,Cloud Infrastructure,743.61,Engineering,0,Regular operating expense
+TXN-10319,2026-06-29,6500,Professional Services,Contractor Services,Professional Services,759.08,Finance,0,Regular operating expense
+TXN-10321,2026-06-29,6200,Software Subscriptions,Figma,Software Subscriptions,289.46,Product,0,Regular operating expense
+TXN-10428,2026-06-29,6200,Software Subscriptions,Figma,Software Subscriptions,461.57,Product,0,Regular operating expense
+TXN-10180,2026-06-30,6300,Marketing,HubSpot,Marketing,459.08,Marketing,0,Regular operating expense
+TXN-10389,2026-06-30,6500,Professional Services,Contractor Services,Professional Services,824.38,Finance,0,Regular operating expense
+TXN-10105,2026-07-01,6400,Travel and Entertainment,Delta Air Lines,Travel and Entertainment,306.65,Operations,0,Regular operating expense
+TXN-10362,2026-07-01,6500,Professional Services,Deloitte,Professional Services,412.43,Finance,0,Regular operating expense
+TXN-10124,2026-07-02,6200,Software Subscriptions,Figma,Software Subscriptions,685.86,Product,0,Regular operating expense
+TXN-10145,2026-07-02,6500,Professional Services,Contractor Services,Professional Services,427.31,Finance,0,Regular operating expense
+TXN-10106,2026-07-03,6200,Software Subscriptions,Notion,Software Subscriptions,282.75,Product,0,Regular operating expense
+TXN-10167,2026-07-03,6400,Travel and Entertainment,Marriott,Travel and Entertainment,288.00,Operations,0,Regular operating expense
+TXN-10213,2026-07-03,6400,Travel and Entertainment,Marriott,Travel and Entertainment,287.80,Operations,0,Regular operating expense
+TXN-10352,2026-07-03,6100,Cloud Infrastructure,Amazon Web Services,Cloud Infrastructure,1035.84,Engineering,0,Regular operating expense
+TXN-10126,2026-07-04,6200,Software Subscriptions,Figma,Software Subscriptions,630.00,Product,0,Regular operating expense
+TXN-10134,2026-07-04,6400,Travel and Entertainment,Marriott,Travel and Entertainment,323.23,Operations,0,Regular operating expense
+TXN-10270,2026-07-04,6400,Travel and Entertainment,Marriott,Travel and Entertainment,369.93,Operations,0,Regular operating expense
+TXN-10275,2026-07-04,6200,Software Subscriptions,GitHub,Software Subscriptions,226.88,Product,0,Regular operating expense
+TXN-10318,2026-07-04,6500,Professional Services,Contractor Services,Professional Services,769.04,Finance,0,Regular operating expense
+TXN-10479,2026-07-05,6200,Software Subscriptions,Figma,Software Subscriptions,174.38,Product,0,Regular operating expense
+TXN-10183,2026-07-06,6300,Marketing,Google Ads,Marketing,451.99,Marketing,0,Regular operating expense
+TXN-10367,2026-07-08,6500,Professional Services,Contractor Services,Professional Services,575.14,Finance,0,Regular operating expense
+TXN-10463,2026-07-08,6500,Professional Services,Deloitte,Professional Services,465.63,Finance,0,Regular operating expense
+TXN-10464,2026-07-08,6300,Marketing,HubSpot,Marketing,522.89,Marketing,0,Regular operating expense
+TXN-10004,2026-07-09,6400,Travel and Entertainment,Marriott,Travel and Entertainment,117.75,Operations,0,Regular operating expense
+TXN-10054,2026-07-10,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,964.41,Engineering,0,Regular operating expense
+TXN-10276,2026-07-10,6500,Professional Services,Deloitte,Professional Services,847.76,Finance,0,Regular operating expense
+TXN-10373,2026-07-10,6100,Cloud Infrastructure,Amazon Web Services,Cloud Infrastructure,613.35,Engineering,0,Regular operating expense
+TXN-10417,2026-07-10,6500,Professional Services,Contractor Services,Professional Services,607.41,Finance,0,Regular operating expense
+TXN-10103,2026-07-11,6400,Travel and Entertainment,Uber,Travel and Entertainment,211.86,Operations,0,Regular operating expense
+TXN-10001,2026-07-12,6400,Travel and Entertainment,Marriott,Travel and Entertainment,391.42,Operations,0,Regular operating expense
+TXN-10422,2026-07-12,6400,Travel and Entertainment,Marriott,Travel and Entertainment,107.29,Operations,0,Regular operating expense
+TXN-10495,2026-07-12,6100,Cloud Infrastructure,Google Cloud,Cloud Infrastructure,1058.37,Engineering,0,Regular operating expense
+TXN-10082,2026-07-13,6300,Marketing,Google Ads,Marketing,861.96,Marketing,0,Regular operating expense
+TXN-10206,2026-07-13,6400,Travel and Entertainment,Uber,Travel and Entertainment,495.37,Operations,0,Regular operating expense
+TXN-10349,2026-07-13,6500,Professional Services,Legal Counsel,Professional Services,530.91,Finance,0,Regular operating expense
+TXN-10049,2026-07-14,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,731.98,Engineering,0,Regular operating expense
+TXN-10138,2026-07-14,6200,Software Subscriptions,GitHub,Software Subscriptions,317.96,Product,0,Regular operating expense
+TXN-10452,2026-07-14,6100,Cloud Infrastructure,Google Cloud,Cloud Infrastructure,579.29,Engineering,0,Regular operating expense
+TXN-10020,2026-07-15,6400,Travel and Entertainment,Delta Air Lines,Travel and Entertainment,276.86,Operations,0,Regular operating expense
+TXN-10035,2026-07-15,6200,Software Subscriptions,Notion,Software Subscriptions,223.34,Product,0,Regular operating expense
+TXN-10261,2026-07-15,6200,Software Subscriptions,Atlassian,Software Subscriptions,679.59,Product,0,Regular operating expense
+TXN-10267,2026-07-15,6500,Professional Services,Contractor Services,Professional Services,502.72,Finance,0,Regular operating expense
+TXN-10356,2026-07-15,6500,Professional Services,Deloitte,Professional Services,527.80,Finance,0,Regular operating expense
+TXN-10375,2026-07-15,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,1007.61,Engineering,0,Regular operating expense
+TXN-10440,2026-07-15,6400,Travel and Entertainment,Marriott,Travel and Entertainment,407.78,Operations,0,Regular operating expense
+TXN-10459,2026-07-15,6300,Marketing,Google Ads,Marketing,649.98,Marketing,0,Regular operating expense
+TXN-10365,2026-07-16,6200,Software Subscriptions,Atlassian,Software Subscriptions,560.86,Product,0,Regular operating expense
+TXN-10021,2026-07-17,6100,Cloud Infrastructure,Google Cloud,Cloud Infrastructure,810.25,Engineering,0,Regular operating expense
+TXN-10257,2026-07-17,6100,Cloud Infrastructure,Amazon Web Services,Cloud Infrastructure,1052.42,Engineering,0,Regular operating expense
+TXN-10467,2026-07-17,6300,Marketing,HubSpot,Marketing,623.78,Marketing,0,Regular operating expense
+TXN-10287,2026-07-18,6500,Professional Services,Contractor Services,Professional Services,795.93,Finance,0,Regular operating expense
+TXN-10139,2026-07-20,6200,Software Subscriptions,GitHub,Software Subscriptions,678.06,Product,0,Regular operating expense
+TXN-10385,2026-07-20,6100,Cloud Infrastructure,Google Cloud,Cloud Infrastructure,634.08,Engineering,0,Regular operating expense
+TXN-10398,2026-07-20,6200,Software Subscriptions,Notion,Software Subscriptions,476.74,Product,0,Regular operating expense
+TXN-10314,2026-07-21,6400,Travel and Entertainment,Uber,Travel and Entertainment,334.15,Operations,0,Regular operating expense
+TXN-10409,2026-07-21,6400,Travel and Entertainment,Marriott,Travel and Entertainment,233.86,Operations,0,Regular operating expense
+TXN-10100,2026-07-22,6100,Cloud Infrastructure,Amazon Web Services,Cloud Infrastructure,758.44,Engineering,0,Regular operating expense
+TXN-10268,2026-07-22,6300,Marketing,Meta Ads,Marketing,420.40,Marketing,0,Regular operating expense
+TXN-10439,2026-07-22,6300,Marketing,Meta Ads,Marketing,865.63,Marketing,0,Regular operating expense
+TXN-10092,2026-07-23,6300,Marketing,Google Ads,Marketing,349.44,Marketing,0,Regular operating expense
+TXN-10123,2026-07-23,6400,Travel and Entertainment,Marriott,Travel and Entertainment,313.65,Operations,0,Regular operating expense
+TXN-10202,2026-07-23,6500,Professional Services,Legal Counsel,Professional Services,431.34,Finance,0,Regular operating expense
+TXN-10311,2026-07-23,6300,Marketing,Google Ads,Marketing,841.31,Marketing,0,Regular operating expense
+TXN-10403,2026-07-23,6100,Cloud Infrastructure,Google Cloud,Cloud Infrastructure,596.38,Engineering,0,Regular operating expense
+TXN-10458,2026-07-23,6200,Software Subscriptions,Notion,Software Subscriptions,607.11,Product,0,Regular operating expense
+TXN-10159,2026-07-24,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,727.28,Engineering,0,Regular operating expense
+TXN-10072,2026-07-25,6300,Marketing,Google Ads,Marketing,872.24,Marketing,0,Regular operating expense
+TXN-10388,2026-07-25,6300,Marketing,HubSpot,Marketing,626.65,Marketing,0,Regular operating expense
+TXN-10130,2026-07-27,6300,Marketing,Meta Ads,Marketing,292.47,Marketing,0,Regular operating expense
+TXN-10245,2026-07-27,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,1047.29,Engineering,0,Regular operating expense
+TXN-10369,2026-07-28,6300,Marketing,Meta Ads,Marketing,732.33,Marketing,0,Regular operating expense
+TXN-10490,2026-07-28,6300,Marketing,Meta Ads,Marketing,676.23,Marketing,0,Regular operating expense
+TXN-10046,2026-07-29,6200,Software Subscriptions,Atlassian,Software Subscriptions,447.08,Product,0,Regular operating expense
+TXN-10256,2026-07-29,6500,Professional Services,Contractor Services,Professional Services,834.32,Finance,0,Regular operating expense
+TXN-10429,2026-07-29,6200,Software Subscriptions,Atlassian,Software Subscriptions,571.47,Product,0,Regular operating expense
+TXN-10493,2026-07-29,6500,Professional Services,Legal Counsel,Professional Services,826.06,Finance,0,Regular operating expense
+TXN-10231,2026-07-30,6100,Cloud Infrastructure,Amazon Web Services,Cloud Infrastructure,870.74,Engineering,0,Regular operating expense
+TXN-10455,2026-07-30,6500,Professional Services,Contractor Services,Professional Services,354.50,Finance,0,Regular operating expense
+TXN-10129,2026-07-31,6500,Professional Services,Deloitte,Professional Services,773.95,Finance,0,Regular operating expense
+TXN-10140,2026-07-31,6400,Travel and Entertainment,Uber,Travel and Entertainment,405.09,Operations,0,Regular operating expense
+TXN-10171,2026-07-31,6200,Software Subscriptions,GitHub,Software Subscriptions,370.25,Product,0,Regular operating expense
+TXN-10325,2026-07-31,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,633.95,Engineering,0,Regular operating expense
+TXN-10412,2026-07-31,6300,Marketing,Google Ads,Marketing,839.12,Marketing,0,Regular operating expense
+TXN-10415,2026-07-31,6200,Software Subscriptions,Notion,Software Subscriptions,510.83,Product,0,Regular operating expense
+TXN-10450,2026-07-31,6300,Marketing,Meta Ads,Marketing,841.83,Marketing,0,Regular operating expense
+TXN-10089,2026-08-01,6200,Software Subscriptions,Notion,Software Subscriptions,592.58,Product,0,Regular operating expense
+TXN-10211,2026-08-01,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,909.45,Engineering,0,Regular operating expense
+TXN-10460,2026-08-01,6400,Travel and Entertainment,Delta Air Lines,Travel and Entertainment,194.27,Operations,0,Regular operating expense
+TXN-10158,2026-08-03,6400,Travel and Entertainment,Marriott,Travel and Entertainment,325.65,Operations,0,Regular operating expense
+TXN-10219,2026-08-03,6300,Marketing,HubSpot,Marketing,386.50,Marketing,0,Regular operating expense
+TXN-10348,2026-08-03,6200,Software Subscriptions,Atlassian,Software Subscriptions,537.95,Product,0,Regular operating expense
+TXN-10397,2026-08-03,6300,Marketing,Google Ads,Marketing,642.27,Marketing,0,Regular operating expense
+TXN-10426,2026-08-03,6100,Cloud Infrastructure,Amazon Web Services,Cloud Infrastructure,684.18,Engineering,0,Regular operating expense
+TXN-10299,2026-08-04,6500,Professional Services,Deloitte,Professional Services,637.04,Finance,0,Regular operating expense
+TXN-10047,2026-08-05,6200,Software Subscriptions,Atlassian,Software Subscriptions,266.11,Product,0,Regular operating expense
+TXN-10392,2026-08-05,6200,Software Subscriptions,Notion,Software Subscriptions,376.19,Product,0,Regular operating expense
+TXN-10414,2026-08-05,6300,Marketing,Meta Ads,Marketing,812.05,Marketing,0,Regular operating expense
+TXN-10416,2026-08-05,6400,Travel and Entertainment,Delta Air Lines,Travel and Entertainment,324.50,Operations,0,Regular operating expense
+TXN-10443,2026-08-05,6200,Software Subscriptions,GitHub,Software Subscriptions,604.95,Product,0,Regular operating expense
+TXN-10457,2026-08-05,6300,Marketing,Meta Ads,Marketing,263.90,Marketing,0,Regular operating expense
+TXN-10143,2026-08-06,6500,Professional Services,Legal Counsel,Professional Services,289.41,Finance,0,Regular operating expense
+TXN-10470,2026-08-06,6500,Professional Services,Deloitte,Professional Services,638.79,Finance,0,Regular operating expense
+TXN-10014,2026-08-07,6500,Professional Services,Legal Counsel,Professional Services,510.00,Finance,0,Regular operating expense
+TXN-10141,2026-08-07,6500,Professional Services,Deloitte,Professional Services,427.73,Finance,0,Regular operating expense
+TXN-10248,2026-08-07,6300,Marketing,HubSpot,Marketing,627.44,Marketing,0,Regular operating expense
+TXN-10437,2026-08-08,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,691.40,Engineering,0,Regular operating expense
+TXN-10233,2026-08-09,6200,Software Subscriptions,Notion,Software Subscriptions,496.09,Product,0,Regular operating expense
+TXN-10302,2026-08-09,6100,Cloud Infrastructure,Google Cloud,Cloud Infrastructure,555.67,Engineering,0,Regular operating expense
+TXN-10411,2026-08-10,6100,Cloud Infrastructure,Google Cloud,Cloud Infrastructure,661.05,Engineering,0,Regular operating expense
+TXN-10097,2026-08-11,6500,Professional Services,Deloitte,Professional Services,737.70,Finance,0,Regular operating expense
+TXN-10168,2026-08-11,6300,Marketing,Google Ads,Marketing,440.34,Marketing,0,Regular operating expense
+TXN-10209,2026-08-11,6400,Travel and Entertainment,Marriott,Travel and Entertainment,429.96,Operations,0,Regular operating expense
+TXN-10272,2026-08-11,6100,Cloud Infrastructure,Amazon Web Services,Cloud Infrastructure,1011.26,Engineering,0,Regular operating expense
+TXN-10296,2026-08-11,6300,Marketing,HubSpot,Marketing,723.21,Marketing,0,Regular operating expense
+TXN-10330,2026-08-11,6400,Travel and Entertainment,Marriott,Travel and Entertainment,353.29,Operations,0,Regular operating expense
+TXN-10499,2026-08-11,6300,Marketing,Meta Ads,Marketing,304.02,Marketing,0,Regular operating expense
+TXN-10087,2026-08-12,6500,Professional Services,Contractor Services,Professional Services,569.29,Finance,0,Regular operating expense
+TXN-10226,2026-08-12,6100,Cloud Infrastructure,Amazon Web Services,Cloud Infrastructure,755.40,Engineering,0,Regular operating expense
+TXN-10382,2026-08-12,6300,Marketing,HubSpot,Marketing,693.88,Marketing,0,Regular operating expense
+TXN-10050,2026-08-14,6400,Travel and Entertainment,Marriott,Travel and Entertainment,119.91,Operations,0,Regular operating expense
+TXN-10150,2026-08-14,6400,Travel and Entertainment,Delta Air Lines,Travel and Entertainment,140.07,Operations,0,Regular operating expense
+TXN-10166,2026-08-14,6500,Professional Services,Legal Counsel,Professional Services,623.17,Finance,0,Regular operating expense
+TXN-10172,2026-08-15,6400,Travel and Entertainment,Marriott,Travel and Entertainment,129.81,Operations,0,Regular operating expense
+TXN-10043,2026-08-16,6300,Marketing,Meta Ads,Marketing,631.09,Marketing,0,Regular operating expense
+TXN-10102,2026-08-16,6300,Marketing,Meta Ads,Marketing,372.36,Marketing,0,Regular operating expense
+TXN-10181,2026-08-16,6400,Travel and Entertainment,Uber,Travel and Entertainment,142.63,Operations,0,Regular operating expense
+TXN-10187,2026-08-16,6200,Software Subscriptions,Figma,Software Subscriptions,636.44,Product,0,Regular operating expense
+TXN-10023,2026-08-17,6500,Professional Services,Contractor Services,Professional Services,638.51,Finance,0,Regular operating expense
+TXN-10462,2026-08-17,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,751.48,Engineering,0,Regular operating expense
+TXN-10230,2026-08-20,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,888.70,Engineering,0,Regular operating expense
+TXN-10151,2026-08-21,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,606.67,Engineering,0,Regular operating expense
+TXN-10015,2026-08-22,6500,Professional Services,Deloitte,Professional Services,683.02,Finance,0,Regular operating expense
+TXN-10059,2026-08-22,6400,Travel and Entertainment,Marriott,Travel and Entertainment,356.79,Operations,0,Regular operating expense
+TXN-10279,2026-08-22,6200,Software Subscriptions,Notion,Software Subscriptions,645.27,Product,0,Regular operating expense
+TXN-10354,2026-08-22,6200,Software Subscriptions,Notion,Software Subscriptions,187.08,Product,0,Regular operating expense
+TXN-10359,2026-08-22,6500,Professional Services,Contractor Services,Professional Services,601.17,Finance,0,Regular operating expense
+TXN-10420,2026-08-22,6200,Software Subscriptions,GitHub,Software Subscriptions,625.77,Product,0,Regular operating expense
+TXN-10048,2026-08-23,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,640.97,Engineering,0,Regular operating expense
+TXN-10104,2026-08-23,6100,Cloud Infrastructure,Google Cloud,Cloud Infrastructure,992.70,Engineering,0,Regular operating expense
+TXN-10007,2026-08-24,6500,Professional Services,Legal Counsel,Professional Services,642.09,Finance,0,Regular operating expense
+TXN-10093,2026-08-24,6300,Marketing,HubSpot,Marketing,565.57,Marketing,0,Regular operating expense
+TXN-10263,2026-08-24,6400,Travel and Entertainment,Marriott,Travel and Entertainment,354.97,Operations,0,Regular operating expense
+TXN-10379,2026-08-24,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,707.26,Engineering,0,Regular operating expense
+TXN-10200,2026-08-25,6200,Software Subscriptions,Notion,Software Subscriptions,430.93,Product,0,Regular operating expense
+TXN-10222,2026-08-25,6200,Software Subscriptions,GitHub,Software Subscriptions,478.62,Product,0,Regular operating expense
+TXN-10249,2026-08-25,6200,Software Subscriptions,Atlassian,Software Subscriptions,524.65,Product,0,Regular operating expense
+TXN-10338,2026-08-25,6500,Professional Services,Deloitte,Professional Services,435.08,Finance,0,Regular operating expense
+TXN-10357,2026-08-25,6400,Travel and Entertainment,Marriott,Travel and Entertainment,292.74,Operations,0,Regular operating expense
+TXN-10478,2026-08-25,6500,Professional Services,Legal Counsel,Professional Services,595.24,Finance,0,Regular operating expense
+TXN-10056,2026-08-26,6300,Marketing,Google Ads,Marketing,616.43,Marketing,0,Regular operating expense
+TXN-10148,2026-08-26,6500,Professional Services,Contractor Services,Professional Services,705.78,Finance,0,Regular operating expense
+TXN-10247,2026-08-26,6300,Marketing,HubSpot,Marketing,459.85,Marketing,0,Regular operating expense
+TXN-10368,2026-08-26,6500,Professional Services,Legal Counsel,Professional Services,475.00,Finance,0,Regular operating expense
+TXN-10418,2026-08-26,6400,Travel and Entertainment,Delta Air Lines,Travel and Entertainment,222.13,Operations,0,Regular operating expense
+TXN-10121,2026-08-27,6300,Marketing,Google Ads,Marketing,361.13,Marketing,0,Regular operating expense
+TXN-10161,2026-08-27,6400,Travel and Entertainment,Uber,Travel and Entertainment,426.44,Operations,0,Regular operating expense
+TXN-10383,2026-08-27,6400,Travel and Entertainment,Delta Air Lines,Travel and Entertainment,152.71,Operations,0,Regular operating expense
+TXN-10498,2026-08-27,6300,Marketing,Meta Ads,Marketing,352.60,Marketing,0,Regular operating expense
+TXN-10174,2026-08-28,6100,Cloud Infrastructure,Amazon Web Services,Cloud Infrastructure,799.71,Engineering,0,Regular operating expense
+TXN-10243,2026-08-28,6200,Software Subscriptions,GitHub,Software Subscriptions,506.10,Product,0,Regular operating expense
+TXN-10011,2026-08-29,6100,Cloud Infrastructure,Microsoft Azure,Cloud Infrastructure,686.57,Engineering,0,Regular operating expense
+TXN-10162,2026-08-31,6200,Software Subscriptions,Figma,Software Subscriptions,154.95,Product,0,Regular operating expense
+TXN-10217,2026-08-31,6200,Software Subscriptions,Notion,Software Subscriptions,311.20,Product,0,Regular operating expense
+TXN-10259,2026-08-31,6100,Cloud Infrastructure,Google Cloud,Cloud Infrastructure,953.83,Engineering,0,Regular operating expense
+TXN-10333,2026-08-31,6400,Travel and Entertainment,Marriott,Travel and Entertainment,206.45,Operations,0,Regular operating expense
